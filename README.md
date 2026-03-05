@@ -2,7 +2,7 @@
 
 My name's Lorenzo. I'm a senior at Northeastern Illinois University graduating in May 2026.
 
-🔭 I'm currently working on several projects across different domains such as IT Support and Cybersecurity.
+🔭 I'm currently working on several projects across different domains such as IT Support, Digital Forensics, and Incident Response/Security Operations.
 
 🌱 I’m currently learning Digital Forensics and Cryptography in my final semester. Also, I'm going through Security Blue Team's "Blue Team Junior Analyst Pathway" to pair with my studies.
 
